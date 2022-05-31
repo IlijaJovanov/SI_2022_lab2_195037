@@ -10,7 +10,7 @@ Control Flow Graph
 ![lab2_SII](https://user-images.githubusercontent.com/94320385/171292720-bf128e9e-1737-4a26-aba4-d437b5cd029b.png)
 
 </br>
-![kod](https://user-images.githubusercontent.com/94320385/171293601-e0df5fa9-5c2d-477e-8790-29d101b78bcb.png)
+
 
 </br>
 

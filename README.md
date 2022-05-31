@@ -11,6 +11,7 @@ Control Flow Graph
 
 </br>
 
+![kod](https://user-images.githubusercontent.com/94320385/171293921-010dc32d-8833-49a9-9540-05a2b900c3b9.png)
 
 </br>
 
